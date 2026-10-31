@@ -1,3 +1,5 @@
+Day 1:
+
 First Up component selection:
 There are many esp323 modules since a fluidsim benefits from high compute i want to find the fastest clock
 Esp32-s3 seems good enough
