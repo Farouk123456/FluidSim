@@ -16,7 +16,7 @@ This is an exploration of the esp32-s3's capabilities and its goal is to help le
 
 ### How does it Work ?
 
-On each Frame the esp32 gets the influences from the board (touch, acceleration, ratation). It then solves the navier stokes equation with the influence terms added and for each pixel and assigns a color based on the velocity and pressure of the fluid inside that pixel 
+On each Frame the esp32 gets the influences from the board (touch, acceleration, ratation). It then solves the equations of motion with the influence terms added and for each pixel and assigns a color based on the velocity and pressure of the fluid inside that pixel 
 
 ### How would I use it ?
 
